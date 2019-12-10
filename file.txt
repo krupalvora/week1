@@ -1,0 +1,10 @@
+
+Dictionary in Python is an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element, Dictionary holds key:value pair. Key value is provided in the dictionary to make it more optimized. Each key-value pair in a Dictionary is separated by a colon :, whereas each key is separated by a ‘comma’. 
+A Dictionary in Python works similar to the Dictionary in a real world. Keys of a Dictionary must be unique and of immutable data type such as Strings, Integers and tuples, but the key-values can be repeated and be of any type.
+Note – Keys in a dictionary doesn’t allows Polymorphism.
+Creating a Dictionary
+In Python, a Dictionary can be created by placing sequence of elements within curly {} braces, separated by ‘comma’. Dictionary holds a pair of values, one being the Key and the other corresponding pair element being its Key:value. Values in a dictionary can be of any datatype and can be duplicated, whereas keys can’t be repeated and must be immutable. 
+Dictionary can also be created by the built-in function dict(). An empty dictionary can be created by just placing to curly braces{}.
+Note – Dictionary keys are case sensitive, same name but different cases of Key will be treated distinctly.
+
+krupal
